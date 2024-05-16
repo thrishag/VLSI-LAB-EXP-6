@@ -11,9 +11,13 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 
 APPARATUS REQUIRED:
 
+
+
 ⦁ Laptop with MobaXterm
 
 ⦁ Cadence tool
+
+
 
 PROCEDURE:
 
